@@ -11,6 +11,7 @@ The design of Console² is largely inspired by the iconic developer console from
 
 # Configuration
 You can configure the console visually and auditory with the values on the path `StarterGui.ConsoleSquared.Configuration`:
+
 ![](https://github.com/Atmox-Games/ConsoleSquared/blob/main/Media/image_2025-09-17_203852683.png)
 
 # Features

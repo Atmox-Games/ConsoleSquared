@@ -1,5 +1,5 @@
 # Introduction
-First of all, thank you for reading this post. I created this project completely out of boredom and wanted to share it as open source with anyone who might be interested. This is not a professional project meant for public distribution to live experiences, as it may contain vulnerabilities, bugs, and glitches.
+This project was made completely out of boredom and wanted to share it as open source with anyone who might be interested. This is not a professional project meant for public distribution to live experiences, as it may contain vulnerabilities, bugs, and glitches.
 
 # The Design
 The design of Console² is largely inspired by the iconic developer console from the [Source](https://en.wikipedia.org/wiki/Source_(game_engine)) game engine.

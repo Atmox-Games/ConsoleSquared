@@ -5,7 +5,7 @@ This project was made completely out of boredom and wanted to share it as open s
 The design of Console² is largely inspired by the iconic developer console from the [Source](https://en.wikipedia.org/wiki/Source_(game_engine)) game engine.
 
 # Setup
-1. Get the main model from one of the sources below and insert it to your Roblox project.
+1. Get the main model from the latest release and insert it to your Roblox project.
 2. Ungroup every folder under their respective [Data Models](https://create.roblox.com/docs/projects/data-model) labeled on every folders name.
 3. Well it's done.
 
